@@ -1,0 +1,20 @@
+* {
+    color:black;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(255, 0, 0);
+}
+
+.header,
+.footer {
+    background-color: rgb(255, 153, 0);
+    height: 10vh;
+}
+
+.content {
+    background-color: rgb(255, 0, 0);
+    height: 80vh;
+}
