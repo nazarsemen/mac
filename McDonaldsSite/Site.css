@@ -25,13 +25,13 @@ p{
 
 }
 img{
-    width: 400px;
-    height: 300px; 
+    width: 100%; 
 }
 td{
     
     border: rgb(255, 238, 0) solid 10px; 
     background-color: rgba(0, 0, 0, 0.3);
+    width: 33%;
 }
 div{
     display: inline-block;
@@ -43,7 +43,7 @@ div{
     margin: 1vmin;
    } 
  div{
-      margin: 5vmin;  
+      margin: 3vmin;  
     }
     
 }
