@@ -24,8 +24,11 @@ p{
     margin-bottom: 300px;
 
 }
-img{
+.A{
     width: 100%; 
+}
+img{
+    width: 400px;
 }
 td{
     
