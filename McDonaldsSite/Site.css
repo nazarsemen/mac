@@ -36,3 +36,9 @@ td{
 div{
     display: inline-block;
 }
+@media all and (orientation: portrait){
+   p{
+    font-size:5vmin;
+    font-family: Arial, Helvetica, sans-serif;
+   } 
+}
